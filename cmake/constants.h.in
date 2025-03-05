@@ -1,0 +1,4 @@
+#pragma once
+
+const char* bucket_name = "@BUCKET_NAME@";
+const char* file_location = "@FILE_LOCATION@";
