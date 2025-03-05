@@ -20,5 +20,5 @@ cmake -DCMAKE_BUILD_TYPE=Release \
   -DBUCKET_NAME=${BUCKET_NAME} ..
 
 cmake --build .
-
-./sdk_benchmark
+cd ..
+./build/sdk_benchmark
