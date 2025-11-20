@@ -1,4 +1,5 @@
 #pragma once
 
 const char* bucket_name = "@BUCKET_NAME@";
+const char* express_bucket_name = "@BUCKET_NAME@--use1-az6--x-s3";
 const char* file_location = "@FILE_LOCATION@";
